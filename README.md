@@ -10,4 +10,4 @@ Image Classification
    ![image](https://github.com/Oybek0407/Image-Classification/assets/121758616/e951ff7c-a4c5-477d-a967-7d57ec8dfe1e)
 6. streamlit for fruits
 
-[DEMO] - > http://localhost:8503
+[DEMO] - > http://localhost:8503 or http://192.168.0.53:8501/
